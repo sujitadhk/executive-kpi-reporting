@@ -1,0 +1,11 @@
+customer_id,full_name,country,segment,revenue,orders
+C0066,Aarav Thapa,UAE,SMB,30940.5,8
+C0074,Nisha Sharma,India,Startup,27544.27,12
+C0255,Anita Adhikari,India,Startup,25306.69,9
+C0160,Ramesh Rai,UAE,SMB,25047.83,11
+C0050,Nisha Basnet,India,Startup,23305.96,7
+C0223,Manish Adhikari,India,Enterprise,22559.11,7
+C0069,Sita Sharma,Nepal,Startup,21062.58,12
+C0057,Dipak Shrestha,Nepal,SMB,20610.26,8
+C0243,Maya Sharma,UAE,Startup,19992.93,7
+C0241,Sita Adhikari,UAE,Enterprise,19803.23,7
